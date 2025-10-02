@@ -49,14 +49,11 @@ Even popular browser extensions can be unsafe due to privacy violations, malware
 
 | Extension Name                      | Risk/Behavior                                                                 | 
 |--------------------------------------|------------------------------------------------------------------------------|
-| **Autoskip for YouTube**             | Injects adware links, tracks user actions; 9+ million downloads              |
 | **Netflix Party / Netflix Party 2**  | Tracks browsing, injects affiliate links, privacy violations                  | 
 | **Full Page Screenshot Capture**     | Tracks user data, manipulates cookies, over 200,000 downloads                |
 | **friGate Light / friGate CDN**      | Contains malware, accesses sensitive data, redirects to malicious sites       | 
 | **SaveFrom.Net**                     | Collects and leaks user data (IP, browsing behavior)                         | 
 | **SHARPEXT**                         | Email spyware, steals credentials and monitors user behavior                  | 
-| **Hola VPN**                         | Security breaches, tracks user behavior, leaves traffic unencrypted          |
-> **Note:** Even extensions with millions of downloads and high ratings can be unsafe. Malicious code is sometimes added after an extension is sold or updated, and dangerous extensions can remain in official stores for months or years before removal[5][6][7].
 
 ---
 
@@ -97,5 +94,3 @@ Even popular browser extensions can be unsafe due to privacy violations, malware
 - Documented findings and best practices
 
 ---
-
-> **Stay safe! Regularly audit your browser extensions for a secure browsing experience.**
